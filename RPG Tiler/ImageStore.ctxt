@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ImageStore
+comment0.text=\r\n\ A\ library\ of\ images\ for\ a\ specific\ function\r\n\ \r\n\ @FrankLai\r\n\ @2018-03-01\r\n
+comment1.params=imagePath
+comment1.target=ImageStore(java.lang.String[])
+comment1.text=\r\n\ Takes\ a\ whole\ array\ of\ image\ paths\ and\ converts\ it\ into\ a\ list\ of\ \r\n\ image\ pointers;\ useful\ for\ grouping\ many\ similar\ images\ together\r\n\ \r\n\ @param\ imagePath\ a\ list\ of\ image\ paths,\ either\ relative\ or\ from\ C\:\\\r\n
+comment2.params=index
+comment2.target=java.awt.image.BufferedImage\ getImage(int)
+comment2.text=\r\n\ Returns\ an\ image\ from\ the\ image\ store\r\n\ \r\n\ @param\ index\ index\ of\ the\ image\ required\r\n
+numComments=3

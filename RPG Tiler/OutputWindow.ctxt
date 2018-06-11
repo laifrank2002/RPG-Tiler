@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ The\ executable\ function\r\n\ \r\n\ @param\ String[]\ args\r\n
+comment1.params=
+comment1.target=void\ updateFrame()
+comment1.text=\r\n\ Updates\ the\ graphics\ frame\r\n
+numComments=2

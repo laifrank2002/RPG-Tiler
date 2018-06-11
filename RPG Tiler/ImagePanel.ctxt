@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=imagePath
+comment0.target=ImagePanel(java.lang.String)
+comment0.text=\r\n\ constructor\ for\ reading\ and\ loading\ a\ new\ image\ into\ JFrame\r\n\ \r\n\ @param\ imagePath\ the\ path\ of\ the\ image,\ either\ from\ C\:\\\r\n\ or\ from\ a\ location\ within\ the\ folder\ \r\n
+comment1.params=image
+comment1.target=ImagePanel(java.awt.image.BufferedImage)
+comment1.text=\r\n\ constructor\ for\ loading\ an\ image\ into\ JFrame\ when\ an\ image\ already\r\n\ exists\r\n\ \r\n\ @param\ image\ requires\ an\ already\ read\ and\ loaded\ image\ pointer\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

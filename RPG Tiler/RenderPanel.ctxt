@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=mapWidth\ mapHeight
+comment0.target=RenderPanel(int,\ int)
+comment0.text=\r\n\ Creates\ a\ default\ render\ panel\ with\ width\ and\ height\ features\r\n\ \r\n\ @param\ width\ the\ width\ of\ the\ render\r\n\ @param\ height\ the\ height\ of\ the\ render\r\n
+comment1.params=graphics
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Updates\ components.\r\n\ \r\n\ @param\ graphics\ the\ graphics\ component\r\n
+comment2.params=index
+comment2.target=MapObject\ getMapObject(int)
+comment2.text=\r\n\ Gets\ a\ mapobject\ from\ the\ map.\r\n\ \r\n\ @param\ index\ the\ index\ of\ the\ object\ to\ be\ gotten\r\n
+comment3.params=mapObject
+comment3.target=void\ addMapObject(MapObject)
+comment3.text=\r\n\ Adds\ new\ mapobject\ to\ the\ map.\r\n\ \r\n\ @param\ index\ the\ index\ of\ the\ object\ to\ be\ added\r\n
+comment4.params=objectIndex\ x\ y
+comment4.target=void\ moveMapObject(int,\ int,\ int)
+comment4.text=\r\n\ Moves\ a\ mapobject\ on\ this\ map\ to\ a\ new\ location\ on\ the\ map.\r\n\ \r\n\ @param\ objectIndex\ the\ object\ to\ be\ moved\r\n\ @param\ x\ the\ new\ x\ coordinate\r\n\ @param\ y\ the\ new\ y\ coordinate\r\n
+numComments=5

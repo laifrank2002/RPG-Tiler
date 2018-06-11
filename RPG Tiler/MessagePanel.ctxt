@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MessagePanel
+comment0.text=\r\n\ Displays\ messages\ to\ the\ user.\r\n\ \r\n\ @author\ Frank\ Lai\r\n\ @version\ 2018-05-18\r\n
+comment1.params=panelWidth\ panelHeight
+comment1.target=MessagePanel(int,\ int)
+comment1.text=\r\n\ Creates\ a\ default\ message\ panel\ with\ width\ and\ height\r\n\ \r\n\ @param\ width\ the\ width\ of\ the\ render\r\n\ @param\ height\ the\ height\ of\ the\ render\r\n
+comment2.params=graphics
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\ Updates\ components.\r\n\ \r\n\ @param\ graphics\ the\ graphics\ component\r\n
+numComments=3
